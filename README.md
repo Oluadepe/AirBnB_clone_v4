@@ -246,10 +246,9 @@ $ pip3 install Flask
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
-Olusegun Mayungbe - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/mayour26)
 
 ## Contributors
-Rotimi Owolabi - [Github](https://github.com/rohteemie) / [Twitter](https://twitter.com/rohteemie)
+Olusegun Mayungbe - [Github](https://github.com/oluadepe) / [Twitter](https://twitter.com/mayour26)
 
 ## License
 Public Domain. No copy write protection. 
